@@ -1,15 +1,15 @@
 # French translations for PROJECT.
 # Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+# Bernard Acheampong <bernardnketia51@gmai.com>, 2024.
 #
-msgid ""
-msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-05-29 01:20+0000\n"
-"PO-Revision-Date: 2024-05-29 01:20+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+msgid "Hello world"
+msgstr "Bonjour le monde"
+"Project-Id-Version: V1\n"
+"Report-Msgid-Bugs-To: bernardnketia51@gmail.com\n"
+"POT-Creation-Date: 2024-05-29 01:34+0000\n"
+"PO-Revision-Date: 2024-05-29 01:34+0000\n"
+"Last-Translator: Bernard Acheampong <bernardnketia51@gmail.com>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
